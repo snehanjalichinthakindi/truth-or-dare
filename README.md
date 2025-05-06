@@ -46,4 +46,4 @@ https://www.figma.com/proto/mbw4sZQz6bSCCnNMiBBP2y/Untitled?node-id=2-3&t=JHh8nf
 
 ```bash
 git clone https://github.com/snehanjalichinthakindi/truth-or-dare.git
-cd truth-or-dare-app
+cd truth-or-dare
