@@ -31,6 +31,10 @@ Whether you're looking to spice up a party or break the ice with new friends, th
 
 ## 🖼️ Screenshots
 
+![Image](https://github.com/user-attachments/assets/c5de3cb3-1472-43c9-894b-481986308050)
+![Image](https://github.com/user-attachments/assets/dd33ab83-4d2d-43ae-a42e-e698d943446e)
+![Image](https://github.com/user-attachments/assets/1a8aa682-f7d7-4448-b2e1-76379e8c0e83)
+![Image](https://github.com/user-attachments/assets/432dfe11-971d-4afc-8282-849e28a80b7c)
 
 ---
 
